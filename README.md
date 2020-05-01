@@ -8,6 +8,9 @@ make build run
 # Tips
 
 ```f#
-# Clear window
+// Clear window
 System.Console.Clear();;
+
+// Quite
+#quit;;
 ```
